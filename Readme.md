@@ -4,7 +4,9 @@
 
 That's it.
 
-If this is not enough for an explanation, see [this ASCII-cast](http://ascii.io/a/2045)
+If this is not enough for an explanation, see [this ASCII-cast](http://ascii.io/a/2045) or take a look at this screenshot:
+
+![SCREENSHOT OF A TERMINAL](http://i.imgur.com/Qz1AZ3a.png)
 
 # Requirements
 
